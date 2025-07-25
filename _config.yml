@@ -1,7 +1,14 @@
-title: AwesomeJT
+title: Bugbyte Studio
 logo: /assets/images/logo.avif
-baseurl: /awesome-jekyll-theme
-
+author:
+  name: Muhammad Ahmad
+email: m.ahmadsaleem@outlook.com
+description: >
+  Indie game studio portfolio showcasing playable demos and media.
+social:
+  github: ahmad.github.io
+  linkedin: www.linkedin.com/in/muhammad-ahmad-079520125
+  
 ##
 # Typewritter configuration.
 # Feel free to disable if you don't like it.
@@ -31,7 +38,7 @@ contact_channels:
   # discord: "https://discord.com/"
   # mastodon: "https://lile.cl/"
   # threads: "https://www.threads.net/@example"
-  # linkedin: "https://www.linkedin.com/in/example/"
+  # linkedin: "www.linkedin.com/in/muhammad-ahmad-079520125"
 
 ##
 # Plugins configuration
